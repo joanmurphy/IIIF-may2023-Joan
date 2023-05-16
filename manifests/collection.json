@@ -1,0 +1,13 @@
+{
+  "id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in joanmurphy/IIIF-may2023-Joan project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json",
+    "label" : "U-boat"
+  } ]
+}
