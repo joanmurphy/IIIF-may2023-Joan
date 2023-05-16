@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "U-boat",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Joan Murphy, CC-BY-SA",
+  "sequences" : [ {
+    "@id" : "http://b5e45b83-e16f-4854-904c-c854cf863ab2",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56",
+      "@type" : "sc:Canvas",
+      "label" : "U-boat Interior",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://613bceda-7dd9-4b8a-bc1b-c877b963e622",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/7997430292-d-2eddf-0ca-9-o-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/7997430292-d-2eddf-0ca-9-o-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://60c758d5-e362-4a7d-a0de-3a52ed7a7ac4",
+      "@type" : "sc:Canvas",
+      "label" : "U-boat Interior with manikins",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35d20544-7cc5-4c45-b27a-0f2d1becdd8b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-6085/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-6085",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://60c758d5-e362-4a7d-a0de-3a52ed7a7ac4"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
