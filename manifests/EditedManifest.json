@@ -55,7 +55,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/img-6085/full/90/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/img-6085/full/0/90/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
