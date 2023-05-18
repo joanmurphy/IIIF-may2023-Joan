@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Interior sealed door",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Interior sealed door</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105058840615594199002",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T19:46:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684439186067",
+    "dcterms:modified" : "2023-05-18T19:47:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1165,1864,810,781"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1164.69592,1864.19868h404.76176v0h404.76176v390.71787v390.71787h-404.76176h-404.76176v-390.71787z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_df7a506c-5c83-4b2a-b74f-e3fa5258fdc3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.06583\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Torpedo",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Torpedo</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105058840615594199002",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T19:46:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684439215913",
+    "dcterms:modified" : "2023-05-18T19:46:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2515,2015,507,813"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3022,2015.17047h-253.54545v0h-253.54545v406.51724v406.51724h253.54545h253.54545v-406.51724z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_880f6161-cf07-47ee-8817-e009bf0a970e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pipe",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pipe</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105058840615594199002",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T19:47:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684439248855",
+    "dcterms:modified" : "2023-05-18T19:47:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=44,1144,957,458"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M101.09339,1601.90338l450.09933,-130.5915v0l450.09933,-130.5915l-28.6015,-98.57851l-28.6015,-98.57851l-450.09933,130.5915l-450.09933,130.5915l28.6015,98.57851z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-16.17952070607996,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90b686c6-2428-42a1-b0ec-504970ad13bf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56"
+    } ]
+  } ],
+  "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/annotations/0e0bcce6da1eb66e16402920e9bbb5b2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
