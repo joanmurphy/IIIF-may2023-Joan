@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://joanmurphy.github.io/IIIF-may2023-Joan/annotations/0e0bcce6da1eb66e16402920e9bbb5b2.json" ],
+  "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/annotations/collection.json",
+  "label" : "All annotations loaded in joanmurphy/IIIF-may2023-Joan project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
