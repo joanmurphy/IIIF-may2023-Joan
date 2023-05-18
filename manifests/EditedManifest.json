@@ -3,6 +3,11 @@
   "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json",
   "@type" : "sc:Manifest",
   "label" : "U-boat",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/105058840615594199002/27e16feee51e86bcf8a4d27c61b6262f/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
@@ -41,6 +46,11 @@
           "width" : 3024
         },
         "on" : "http://78765ab3-36fa-4c04-8e93-3beb49c51f56"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/annotations/0e0bcce6da1eb66e16402920e9bbb5b2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
