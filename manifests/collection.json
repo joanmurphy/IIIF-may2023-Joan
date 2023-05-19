@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/EditedManifest.json",
     "label" : "U-boat"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/mapsmanifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
