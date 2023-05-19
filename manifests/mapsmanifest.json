@@ -1,0 +1,113 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://joanmurphy.github.io/IIIF-may2023-Joan/manifests/mapsmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://47b1e131-0ea6-4efa-bf10-05999705c500",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8490d748-5a82-47d6-9c1c-82e17164b2df",
+      "@type" : "sc:Canvas",
+      "label" : "Ireland South 1794",
+      "height" : 959,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ad34d716-4a3b-40cd-8118-ad7fd8c210c3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images-0.georeferencer.com/images/iiif/492496023963/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images-0.georeferencer.com/images/iiif/492496023963",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 959,
+          "width" : 1536
+        },
+        "on" : "http://8490d748-5a82-47d6-9c1c-82e17164b2df"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://879916a0-5c3b-49e4-bf3d-e21fd20b7f32",
+      "@type" : "sc:Canvas",
+      "label" : "Ireland South 1838",
+      "height" : 1143,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cc320b30-6ddd-43ab-85ca-6aa110bae4e8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images-0.georeferencer.com/images/iiif/736393716784/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images-0.georeferencer.com/images/iiif/736393716784",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1143,
+          "width" : 1536
+        },
+        "on" : "http://879916a0-5c3b-49e4-bf3d-e21fd20b7f32"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bfd2d27d-18c6-4e9b-9c05-7856938e1afa",
+      "@type" : "sc:Canvas",
+      "label" : "Ireland South 1922",
+      "height" : 1073,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://de46341f-ea26-4f94-8466-b7a4c71fb824",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images-0.georeferencer.com/images/iiif/371156472743/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images-0.georeferencer.com/images/iiif/371156472743",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1073,
+          "width" : 1536
+        },
+        "on" : "http://bfd2d27d-18c6-4e9b-9c05-7856938e1afa"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
